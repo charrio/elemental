@@ -4,4 +4,24 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+##Summary
+All Inclusive Brazilian Jiu Jitsu vacation to the beautiful exotic country of Colombia.
+
+## What’s included
+6 Nights Accommodation
+2 BJJ Seminars a Day (11 in Total)
+Paragliding Excursion
+Excursion to Guatape
+Excursion to Colomuna 13
+Massages are Available All Week Long
+Transportation to and from the Airport
+Professional Video and Photography.
+
+
+## Training Facilities
+
+## Accommodation
+
+## Instructors
+
+## Excursions

@@ -4,7 +4,7 @@ title: "Medellin"
 author: "Charles Harriott"
 categories: documentation
 tags: [documentation,sample]
-image: Comuna13-crop.jpg
+image: Comuna13-crop2.jpg
 ---
 
 
