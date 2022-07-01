@@ -24,6 +24,9 @@ All Inclusive Brazilian Jiu Jitsu vacation to the beautiful country of Colombia.
 
 Cobrihna Medellin
 
+<iframe class="slideshow-iframe" src="https://charrio.github.io/jekyll-slideshow/slides/cobrinha.html"
+style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>`
+
 ## Accommodation
    Soy Local
    
