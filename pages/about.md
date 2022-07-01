@@ -33,15 +33,17 @@ style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></
 ## Instructors
 
 ### Charles Harriott
+* ![Yijo Moussa](assets/img/charles4.jpg)
 
 ### Yiyo Moussa
-* ![Yijo Moussa](yiyo3.jpg)
+* ![Yijo Moussa](assets/img/yiyo3.jpg)
 
 ### Carlos Quintero
-* ![Carlos Quintero](carlos1.jpg)
+* ![Carlos Quintero](assets/img/carlos1.jpg)
 
 
 ## Excursions
 Guatape
-Pe
+Peñol
 Hang gliding
+Comuna13
