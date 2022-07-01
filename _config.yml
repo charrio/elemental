@@ -11,8 +11,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Elemental Grappling Camp"
-description:	       "a unique experience <tagline pending>"
-author:              "Charles Harriott & Al Ghuneim"
+description:	       "a unique experience" # <tagline pending>
+#author:              "Charles Harriott & Al Ghuneim"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
