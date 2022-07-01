@@ -3,7 +3,7 @@ layout: post
 title: "Training Facilities"
 author: "Charles Harriott"
 categories: documentation
-tags: [medellin][camp]
+tags: [medellin,camp]
 image: jiu-jitsu-hero.jpg
 ---
 

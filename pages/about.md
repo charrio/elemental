@@ -38,7 +38,7 @@ style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></
  ![Yijo Moussa](assets/img/yijo3.jpg)
 
 ### Carlos Quintero
- ![Carlos Quintero](assets/img/carlos1.jpg)
+ ![Carlos Quintero](assets/img/carlos2.jpg)
 
 
 ## Excursions
