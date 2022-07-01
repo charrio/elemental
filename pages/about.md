@@ -44,7 +44,7 @@ style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></
 ## Excursions
 
 ### Guatape
- ![Guatape](assets/img/guatape2.jpg)
+ ![Guatape](assets/img/Guatape2.jpg)
 ### Peñol
  ![Peñol](assets/img/ViejoPenyol1.jpg)
 ### Paragliding
