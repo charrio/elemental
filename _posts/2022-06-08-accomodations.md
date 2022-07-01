@@ -3,7 +3,7 @@ layout: post
 title: "Accomodation"
 author: "Charles Harriott"
 categories: resources
-tags: [documentation,sample]
+tags: [medellin,camp]
 image: provenza-bar.jpg
 ---
 
