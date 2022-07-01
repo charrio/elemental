@@ -13,8 +13,9 @@ image: Guatape1.jpg
 style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>`
 
 ## Peñol
-  <iframe class="slideshow-iframe" src="https://charrio.github.io/jekyll-slideshow/slides/guatape.html"
+  <iframe class="slideshow-iframe" src="https://charrio.github.io/jekyll-slideshow/slides/penyol.html"
 style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>`
+
 ## Paragliding
 
 ## Comuna 13
