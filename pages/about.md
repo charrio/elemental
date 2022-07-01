@@ -33,10 +33,10 @@ style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></
 ## Instructors
 
 ### Charles Harriott
- ![Charles Harriott](assets/img/charles4.jpg)
+ ![Charles Harriott](assets/img/charles3.jpg)
 
 ### Yiyo Moussa
- ![Yijo Moussa](assets/img/yiyo3.jpg)
+ ![Yijo Moussa](assets/img/yijo3.jpg)
 
 ### Carlos Quintero
  ![Carlos Quintero](assets/img/carlos1.jpg)
