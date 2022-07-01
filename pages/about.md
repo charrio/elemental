@@ -4,7 +4,8 @@ title: About
 permalink: /about
 ---
 
-##Summary
+## Summary
+
 All Inclusive Brazilian Jiu Jitsu vacation to the beautiful exotic country of Colombia.
 
 ## What’s included
@@ -21,8 +22,12 @@ All Inclusive Brazilian Jiu Jitsu vacation to the beautiful exotic country of Co
 
 ## Training Facilities
 
+Cobrihna Medellin
+
 ## Accommodation
-
+   Soy Local
 ## Instructors
-
+Charles Harriott
 ## Excursions
+Guatape
+Hang
