@@ -9,4 +9,4 @@ image: jiu-jitsu-hero.jpg
 
 # Training Facilities
 
-https://www.cobrinhamedellin.co/
+[Cobrinha Medellin](https://www.cobrinhamedellin.co/)

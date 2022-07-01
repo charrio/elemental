@@ -7,7 +7,13 @@ tags: [documentation,sample]
 image: Guatape1.jpg
 ---
 
-# Excursions
+# Guatape
 
 Pictures and description of each excursion.
+
+# Peñol
+
+# Hang Gliding
+
+# Comuna 13
 
