@@ -9,10 +9,12 @@ image: Guatape1.jpg
 
 ## Guatape
 
-Pictures and description of each excursion.
+   <iframe class="slideshow-iframe" src="https://charrio.github.io/jekyll-slideshow/slides/guatape.html"
+style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>`
 
 ## Peñol
-
+  <iframe class="slideshow-iframe" src="https://charrio.github.io/jekyll-slideshow/slides/guatape.html"
+style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>`
 ## Paragliding
 
 ## Comuna 13
