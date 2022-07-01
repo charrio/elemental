@@ -42,7 +42,11 @@ style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></
 
 
 ## Excursions
-Guatape
-Peñol
-Hang gliding
-Comuna13
+
+### Guatape
+
+### Peñol
+
+### Hang Gliding
+
+### Comuna13
