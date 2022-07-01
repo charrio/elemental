@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Excursions"
+title: "Training Facilities"
 author: "Charles Harriott"
 categories: documentation
 tags: [documentation,sample]
-image: cobrinha-training.jfif
+image: jiu-jitsu-hero.jpg
 ---
 
 # Training Facilities

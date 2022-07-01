@@ -24,8 +24,7 @@ All Inclusive Brazilian Jiu Jitsu vacation to the beautiful country of Colombia.
 
 Cobrihna Medellin
 
-<iframe class="slideshow-iframe" src="https://charrio.github.io/jekyll-slideshow/slides/cobrinha.html"
-style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>`
+<iframe width="320" height="440" src="http://instagram.com/p/cobrinhamedellin/embed" frameborder="0"></iframe>
 
 ## Accommodation
    Soy Local
@@ -34,6 +33,9 @@ style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></
 style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>`
 ## Instructors
 Charles Harriott
+Yiyo Moussa
+Carlos Quintero
+
 ## Excursions
 Guatape
-Hang
+Hang gliding
