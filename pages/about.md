@@ -6,7 +6,7 @@ permalink: /about
 
 ## Summary
 
-All Inclusive Brazilian Jiu Jitsu vacation to the beautiful exotic country of Colombia.
+All Inclusive Brazilian Jiu Jitsu vacation to the beautiful country of Colombia.
 
 ## What’s included
 
