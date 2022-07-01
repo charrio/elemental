@@ -2,7 +2,7 @@
 layout: post
 title: "Instructors"
 author: "Charles Harriott"
-categories: instructors
+categories: documentation
 tags: [medellin,camp]
 image: jiu-jitsu-adults.jpg
 ---
