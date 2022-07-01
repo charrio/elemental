@@ -13,11 +13,12 @@ menu:
 #- {name: 'Instructors',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
-- {name: 'Buy Ticket',      link: 'https://www.charlesharriott.com/event-details/elemental-grappling-camp-medellin-colombia'}
+   
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 #- {icon: 'twitter', link:    'https://twitter.com/paululele'}
+- {icon: 'ticket', link: 'https://www.charlesharriott.com/event-details/elemental-grappling-camp-medellin-colombia'}
 #- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
 - {icon: 'instagram', link:  'https://instagram.com/charlesharriott'}
 - {icon: 'envelope', link:   'mailto:contact@charlesharriott.com'}
