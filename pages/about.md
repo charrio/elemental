@@ -31,9 +31,15 @@ Cobrihna Medellin
 style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>`
 
 ## Instructors
-Charles Harriott
-Yiyo Moussa
-Carlos Quintero
+
+### Charles Harriott
+
+### Yiyo Moussa
+* ![Yijo Moussa](yiyo3.jpg)
+
+### Carlos Quintero
+* ![Carlos Quintero](carlos1.jpg)
+
 
 ## Excursions
 Guatape
