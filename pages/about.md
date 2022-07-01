@@ -44,9 +44,10 @@ style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></
 ## Excursions
 
 ### Guatape
-
+ ![Guatape](assets/img/guatape2.jpg)
 ### Peñol
-
-### Hang Gliding
-
-### Comuna13
+ ![Peñol](assets/img/ViejoPenyol1.jpg)
+### Paragliding
+ ![Hang Gliding](assets/img/paragliding1.jpg)
+### Comuna 13
+ ![Comuna 13](assets/img/Comuna13-crop2.jpg)
