@@ -13,7 +13,7 @@ Pictures and description of each excursion.
 
 ## Peñol
 
-## Hang Gliding
+## Paragliding
 
 ## Comuna 13
 
