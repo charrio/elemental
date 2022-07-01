@@ -15,9 +15,9 @@ image: jiu-jitsu-adults.jpg
 
 # Yiyo Moussa
 
- ![Yijo Moussa](assets/img/yiyo1.jpg)
- ![Yijo Moussa](assets/img/yiyo2.jpg)
- ![Yijo Moussa](assets/img/yiyo3.jpg)
+ ![Yijo Moussa](assets/img/yijo1.jpg)
+ ![Yijo Moussa](assets/img/yijo2.jpg)
+ ![Yijo Moussa](assets/img/yijo3.jpg)
 
 # Carlos Quintero
 
