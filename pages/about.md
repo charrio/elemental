@@ -26,6 +26,7 @@ Cobrihna Medellin
 
 ## Accommodation
    Soy Local
+   <iframe src="https://charrio.github.io/jekyll-slideshow/slides/soyLocal-Provenza.html" width="100%" height="100%" style="border: none;"></iframe>
 ## Instructors
 Charles Harriott
 ## Excursions
