@@ -13,7 +13,7 @@ menu:
 #- {name: 'Instructors',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
-- {name: 'Buy Ticket',      url: 'resources'}
+- {name: 'Buy Ticket',      url: 'https://www.charlesharriott.com/event-details/elemental-grappling-camp-medellin-colombia'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
