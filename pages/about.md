@@ -6,7 +6,7 @@ permalink: /about
 
 ## Summary
 
-All Inclusive Brazilian Jiu Jitsu vacation to the beautiful country of Colombia.
+All Inclusive Brazilian Jiu Jitsu vacation to the beautiful country of Colombia. Camps are designed to ignite the sense of wanderlust and adventure by uncovering hidden gems in new grounds while practicing world class Jiu Jitsu and making friends in a respectful and safe environment.
 
 ## What’s included
 
