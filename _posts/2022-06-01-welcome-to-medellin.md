@@ -2,8 +2,8 @@
 layout: post
 title: "Medellin"
 author: "Charles Harriott"
-categories: documentation
-tags: [medellin,camp]
+categories: info
+tags: [medellin,camp,d,a]
 image: Comuna13-crop2.jpg
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: "Excursions"
 author: "Charles Harriott"
-categories: documentation
-tags: [medellin,camp]
+categories: info
+tags: [medellin,camp,a]
 image: Guatape1.jpg
 ---
 
