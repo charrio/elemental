@@ -27,7 +27,7 @@ Cobrihna Medellin
    Soy Local
    
    <iframe class="slideshow-iframe" src="https://charrio.github.io/jekyll-slideshow/slides/soyLocal-Provenza.html"
-style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>`
+style="width:100% min-height:500px" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>`
 
 ## Instructors
 
